@@ -1,4 +1,4 @@
-package com.company.Worek;
+package com.company.Bag;
 import java.util.Iterator;
 
 public class Worek<Item> implements Iterable<Item> {

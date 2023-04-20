@@ -1,4 +1,4 @@
-package com.company.Lista;
+package com.company.List;
 
 import java.time.LocalDate;
 import java.time.Period;

@@ -1,6 +1,4 @@
-package com.company.Lista;
-
-import javax.lang.model.element.Element;
+package com.company.List;
 
 @SuppressWarnings("NonAsciiCharacters")
 public class Lista {

@@ -1,4 +1,4 @@
-package com.company.Graf;
+package com.company.Graph;
 import java.util.Iterator;
 
 public class Kolejka <Element> implements Iterable<Element>{

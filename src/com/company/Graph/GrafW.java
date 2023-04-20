@@ -1,5 +1,5 @@
-package com.company.Graf;
-import com.company.Worek.Worek;
+package com.company.Graph;
+import com.company.Bag.Worek;
 
 @SuppressWarnings({"SpellCheckingInspection","NonAsciiCharacters"})
 public class GrafW { //Graf ważony

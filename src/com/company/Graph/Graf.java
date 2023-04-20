@@ -1,6 +1,6 @@
-package com.company.Graf;
+package com.company.Graph;
 
-import com.company.Worek.*;
+import com.company.Bag.*;
 import java.util.Iterator;
 
 

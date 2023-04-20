@@ -1,4 +1,4 @@
-package com.company.Lista;
+package com.company.List;
 
 @SuppressWarnings("NonAsciiCharacters")
 public class ListaNew {

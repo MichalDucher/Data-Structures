@@ -1,4 +1,4 @@
-package com.company.Graf;
+package com.company.Graph;
 
 public class Krawedz implements Comparable<Krawedz>{
     private int v; //pierwszy wierzcholek

@@ -1,6 +1,4 @@
-package com.company.Stos;
-
-import java.util.Random;
+package com.company.Stack;
 
 @SuppressWarnings("NonAsciiCharacters")
 public class Stos <Element>{

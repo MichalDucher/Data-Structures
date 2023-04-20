@@ -1,6 +1,5 @@
-package com.company.DrzewoWyszukiwanBinarnych;
+package com.company.BST;
 
-import java.awt.*;
 import java.text.Collator;
 import java.util.Comparator;
 import java.util.Locale;
